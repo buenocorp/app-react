@@ -16,5 +16,13 @@
     "socket.io": "^2.2.0"
   },
   "repository": "https://github.com/buenocorp/app-react.git",
-  "author": "Fabio <buenocorp.mobile@gmail.com>"
+  "author": "Fabio <buenocorp.mobile@gmail.com>",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.17.0"
+  }
 }
